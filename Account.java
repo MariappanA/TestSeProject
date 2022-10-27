@@ -1,5 +1,5 @@
 public class Account{
-private double balance=1000.00;
+private double balance=10000.00;
 public double getBalance(int accoutid){
 return balance;
 }
